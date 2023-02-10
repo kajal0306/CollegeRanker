@@ -1,0 +1,6 @@
+.Image-div {
+  max-width: -webkit-fill-available;
+}
+.grayscale {
+  filter: brightness(60%) grayscale(100%);
+}
